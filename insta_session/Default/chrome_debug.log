@@ -1,0 +1,59 @@
+[0424/151129.171:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: Access is denied. (0x5)
+[0424/151129.171:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: Access is denied. (0x5)
+[0424/151129.171:ERROR:net\disk_cache\cache_util_win.cc:25] Unable to move the cache: Access is denied. (0x5)
+[0424/151129.173:ERROR:net\disk_cache\disk_cache.cc:272] Unable to create cache
+[0424/151129.173:ERROR:gpu\ipc\host\gpu_disk_cache.cc:725] Gpu Cache Creation failed: -2
+[0424/151129.173:ERROR:net\disk_cache\disk_cache.cc:272] Unable to create cache
+[0424/151129.173:ERROR:gpu\ipc\host\gpu_disk_cache.cc:725] Gpu Cache Creation failed: -2
+[0424/151129.173:ERROR:net\disk_cache\disk_cache.cc:272] Unable to create cache
+[0424/151129.173:ERROR:gpu\ipc\host\gpu_disk_cache.cc:725] Gpu Cache Creation failed: -2
+[0424/151129.175:WARNING:content\browser\btm\btm_database.cc:128] Failed to initialize the DIPS SQLite database.
+[0424/151131.174:WARNING:components\leveldb_proto\internal\leveldb_database.cc:124] Unable to open D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata: IO error: D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0424/151132.175:ERROR:components\services\storage\service_worker\service_worker_storage.cc:1808] Failed to delete the database: Database IO error
+[0424/151133.211:WARNING:components\leveldb_proto\internal\leveldb_database.cc:124] Unable to open D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata: IO error: D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0424/151135.225:WARNING:components\leveldb_proto\internal\leveldb_database.cc:124] Unable to open D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata: IO error: D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0424/151136.842:INFO:CONSOLE:259] "Rendering was performed in a subtree hidden by content-visibility.", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (259)
+[0424/151137.243:WARNING:components\leveldb_proto\internal\leveldb_database.cc:124] Unable to open D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata: IO error: D:\Office_Project\Keywordscraper\insta_session\Default\shared_proto_db\metadata/LOCK: Access denied. (ChromeMethodBFE: 15::LockFile::5)
+[0424/151142.130:ERROR:storage\browser\quota\quota_database.cc:988] Could not open the quota database, resetting.
+[0424/151142.303:INFO:CONSOLE:243] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151142.303:INFO:CONSOLE:243] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151142.303:INFO:CONSOLE:243] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151142.303:INFO:CONSOLE:243] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151142.530:INFO:CONSOLE:79] "ErrorUtils caught an error:
+
+The user agent does not support public key credentials.
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (79)
+[0424/151144.669:INFO:CONSOLE:79] "ErrorUtils caught an error:
+
+Unable to resolve resource PMh1QI7.
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (79)
+[0424/151144.908:INFO:CONSOLE:243] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151144.908:INFO:CONSOLE:243] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151144.908:INFO:CONSOLE:243] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151144.908:INFO:CONSOLE:243] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151145.092:ERROR:storage\browser\quota\quota_database.cc:988] Could not open the quota database, resetting.
+[0424/151148.002:ERROR:storage\browser\quota\quota_database.cc:993] Failed to reset the quota database.
+[0424/151148.003:ERROR:storage\browser\quota\quota_database.cc:993] Failed to reset the quota database.
+[0424/151318.132:INFO:CONSOLE:243] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151318.133:INFO:CONSOLE:243] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151318.133:INFO:CONSOLE:243] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151318.133:INFO:CONSOLE:243] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (243)
+[0424/151318.222:INFO:CONSOLE:79] "ErrorUtils caught an error:
+
+The user agent does not support public key credentials.
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.cdninstagram.com/rsrc.php/v4/yj/r/vjResMCQTtC.js (79)
